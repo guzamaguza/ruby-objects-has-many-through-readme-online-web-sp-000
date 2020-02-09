@@ -18,6 +18,4 @@ class Meal
     def waiter
 
     end
-
-
 end
